@@ -1,3 +1,4 @@
+//It is used to bring in the useState hook from the 'react' library.
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
